@@ -34,12 +34,14 @@ html[data-theme="light"]{
 .dark {
     background-color: var(--dark);
     color: var(--dark)
+		!important
 }
 
 
 .light {
     background-color: var(--light);
     color: var(--light)
+		
 }
 
 #box1 {
@@ -185,5 +187,29 @@ html[data-theme="light"]{
 }
 
 #box3:hover {
+    background-color:rgba(0, 132, 255, 0.1);
+}
+
+#box4:hover {
+    background-color:rgba(0, 132, 255, 0.1);
+}
+
+#box5:hover {
+    background-color:rgba(0, 132, 255, 0.1);
+}
+
+#box6:hover {
+    background-color:rgba(0, 132, 255, 0.1);
+}
+
+#box7:hover {
+    background-color:rgba(0, 132, 255, 0.1);
+}
+
+#box8:hover {
+    background-color:rgba(0, 132, 255, 0.1);
+}
+
+#box9:hover {
     background-color:rgba(0, 132, 255, 0.1);
 }
