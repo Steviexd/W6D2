@@ -12,21 +12,6 @@
 background-color: beige;
 color: black;
 
-
-}
-
-html[data-theme="dark"]{
-
-    --dark: #292929; 
-    --light: #292929; 
-
-}
-
-html[data-theme="light"]{
-
-    --dark: #a5a5a5; 
-    --light: #a5a5a5; 
-
 }
 
 
